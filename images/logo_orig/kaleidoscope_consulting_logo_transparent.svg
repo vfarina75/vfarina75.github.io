@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+  <title>Kaleidoscope Consulting Services Logo</title>
+
+  <!-- ICON LAYER GROUP -->
+  <g id="icon" inkscape:label="Icon">
+    
+    <g id="arm-1" inkscape:label="Arm 1">
+      <polygon points="150.0,150.0 204.7,127.9 268.0,150.0 204.7,172.1" fill="#EC1E6D"/>
+    </g>
+    <g id="arm-2" inkscape:label="Arm 2">
+      <polygon points="150.0,150.0 204.3,173.1 233.4,233.4 173.1,204.3" fill="#F58220"/>
+    </g>
+    <g id="arm-3" inkscape:label="Arm 3">
+      <polygon points="150.0,150.0 172.1,204.7 150.0,268.0 127.9,204.7" fill="#FCC10D"/>
+    </g>
+    <g id="arm-4" inkscape:label="Arm 4">
+      <polygon points="150.0,150.0 126.9,204.3 66.6,233.4 95.7,173.1" fill="#E63125"/>
+    </g>
+    <g id="arm-5" inkscape:label="Arm 5">
+      <polygon points="150.0,150.0 95.3,172.1 32.0,150.0 95.3,127.9" fill="#EC1E6D"/>
+    </g>
+    <g id="arm-6" inkscape:label="Arm 6">
+      <polygon points="150.0,150.0 95.7,126.9 66.6,66.6 126.9,95.7" fill="#F58220"/>
+    </g>
+    <g id="arm-7" inkscape:label="Arm 7">
+      <polygon points="150.0,150.0 127.9,95.3 150.0,32.0 172.1,95.3" fill="#FCC10D"/>
+    </g>
+    <g id="arm-8" inkscape:label="Arm 8">
+      <polygon points="150.0,150.0 173.1,95.7 233.4,66.6 204.3,126.9" fill="#E63125"/>
+    </g>
+    <circle id="icon-center-dot" cx="150" cy="150" r="6" fill="#FFFFFF" opacity="0.9"/>
+  </g>
+
+  <!-- TEXT LAYER GROUP -->
+  <g id="text" inkscape:label="Text">
+    <text id="text-main" x="525" y="140" text-anchor="middle" textLength="430" lengthAdjust="spacing" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#2B2B2B">Kaleidoscope</text>
+    <text id="text-sub-consulting" x="525" y="185" text-anchor="middle" textLength="430" lengthAdjust="spacing" font-family="Poppins, 'Segoe UI', Arial, sans-serif" font-size="26" font-weight="500" fill="#F58220">CONSULTING</text>
+  </g>
+</svg>
